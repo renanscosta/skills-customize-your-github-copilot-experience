@@ -21,7 +21,7 @@ Os cabeçalhos das seções devem usar EXATAMENTE o mesmo texto do template, inc
 - `## 📝 Tasks` — Para cada tarefa, use `### 🛠️ [Task Title]`:
    - Use um nome de tarefa específico e orientado à ação
    - Na Descrição, indique claramente o que o aluno deve fazer.
-   - Nos Requisitos, use bullet points para listar os resultados ou funcionalidades esperadas. Seja específico e mensurável
+   - Nos Requisitos, use bullet points para listar os resultados ou funcionalidades esperadas. Seja específico e mensurável.
    - Forneça exemplos de entrada/saída em blocos de código se útil.
 
 Não inclua seções extras a menos que explicitamente especificado.

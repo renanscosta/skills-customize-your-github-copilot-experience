@@ -1,5 +1,5 @@
 
-# 📘 Assignment: Hangman Game
+# 📘 Assignment: Hangman Game 
 
 ## 🎯 Objective
 
