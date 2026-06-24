@@ -6,7 +6,7 @@ argument-hint: Forneça os detalhes da tarefa
 
 # Criar Nova Tarefa de Programação
 
-Seu objetivo é gerar uma nova tarefa para os alunos da Mergington High School.
+Seu objetivo é gerar uma nova tarefa para os alunos da Mergington High School .
 
 ## Passo 1: Coletar Informações da Tarefa
 
